@@ -1,8 +1,8 @@
 export default {
     // Temp fonts
     fonts: {
-      title:'RobotoLight,Helvetica,Arial,sans-serif',
-      main: 'RobotoLight,Helvetica,Arial,sans-serif',
+      title:'../src/fonts/Montserrat-Regular.ttf',
+      main: '../src/fonts/Montserrat-Regular.ttf',
     },
     // Colors for layout
     colors: {

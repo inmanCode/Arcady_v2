@@ -16,7 +16,6 @@ export default function Page({
   // const enableBridge = preview;
   story = useStoryblok(story, enableBridge, locale);
 
-  console.log(story);
   return (
       <DynamicComponent
         blok={story.content}
